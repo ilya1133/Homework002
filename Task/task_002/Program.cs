@@ -20,8 +20,6 @@ int C = z1 - z2;
 double length = Math.Sqrt(A * A + B * B + C * C);
 Console.WriteLine($"Длинна отрезка {length}");
 
-
-// Функция ввода сообщения
 int ReadInt(string message)
 {
     Console.Write(message);
